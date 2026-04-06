@@ -47,7 +47,7 @@
 
 <header>
     <h1>🚀 Hello to SREENATH AWS Portal 🚀</h1>
-    <h3>Training | Development | Consulting</h3>
+    <h3>JENNY | RENU</h3>
 </header>
 
 <div class="container">
